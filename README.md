@@ -51,12 +51,7 @@
 
 ### Proyectos destacados
 
-<p>
-  <a href="https://github.com/mateore1330-commits/TU-REPO-1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateore1330-commits&repo=TU-REPO-1&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6" alt="TU-REPO-1" /></a>
-  <a href="https://github.com/mateore1330-commits/TU-REPO-2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateore1330-commits&repo=TU-REPO-2&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6" alt="TU-REPO-2" /></a>
-  <a href="https://github.com/mateore1330-commits/TU-REPO-3"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateore1330-commits&repo=TU-REPO-3&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6" alt="TU-REPO-3" /></a>
-  <a href="https://github.com/mateore1330-commits/ai-engineering-company-project-monorepo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateore1330-commits&repo=ai-engineering-company-project-monorepo&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6" alt="ai-engineering-company-project-monorepo" /></a>
-</p>
+<a href="https://github.com/mateore1330-commits/brilla2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateore1330-commits&repo=brilla2&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6" alt="brilla2" /></a>
 
 ### Tecnologías
 

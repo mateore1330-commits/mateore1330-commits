@@ -42,7 +42,10 @@
 **Últimos commits**
 
 <!-- COMMITS:START -->
-- Se rellena automáticamente en la primera ejecución
+- [**brilla2**](https://github.com/mateore1330-commits/brilla2): [develop "use the brand isotype as the browser tab icon"](https://github.com/mateore1330-commits/brilla2/commit/45f647984d2f0a6a993f6d3d740d0a88b16f5ff4) <sub>01/10/2026</sub>
+- [**the-misspell-chalenge**](https://github.com/mateore1330-commits/the-misspell-chalenge): [Merge pull request #1259 from Antonio-garcia-2025/patch-1](https://github.com/mateore1330-commits/the-misspell-chalenge/commit/7e0947d51f2cb151811b46dfb0ea3cd4bf98cd37) <sub>30/04/2026</sub>
+- [**excuses-generator-with-prompts**](https://github.com/mateore1330-commits/excuses-generator-with-prompts): [Terminé el generador de excusas](https://github.com/mateore1330-commits/excuses-generator-with-prompts/commit/e82b6081a904b085bd3440bc11de175ca240d22c) <sub>02/04/2026</sub>
+- [**ai-engineering-company-project-monorepo**](https://github.com/mateore1330-commits/ai-engineering-company-project-monorepo): [Update Main readmes with repo current status](https://github.com/mateore1330-commits/ai-engineering-company-project-monorepo/commit/0ea4f264a9bab77225fc6ad883bf5c65623b16c2) <sub>01/04/2026</sub>
 <!-- COMMITS:END -->
 
 </td>

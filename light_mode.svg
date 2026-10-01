@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace" width="985px" height="500px" font-size="16px">
+<title>Mateo, Full Stack Developer</title>
+<style>.key{fill:#953800}.value{fill:#0a3069}.dots{fill:#c2cfde}text{font-family:ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace}text,tspan{white-space:pre}</style>
+<rect width="983px" height="498px" x="1" y="1" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="30" y="150" fill="#953800">
+<tspan x="30" y="150"> ███╗   ███╗</tspan>
+<tspan x="30" y="170"> ████╗ ████║</tspan>
+<tspan x="30" y="190"> ██╔████╔██║</tspan>
+<tspan x="30" y="210"> ██║╚██╔╝██║</tspan>
+<tspan x="30" y="230"> ██║ ╚═╝ ██║</tspan>
+<tspan x="30" y="250"> ╚═╝     ╚═╝</tspan>
+<tspan x="30" y="270"></tspan>
+<tspan x="30" y="290">  ┌───────┐</tspan>
+<tspan x="30" y="310">  │ &gt;_ fs │</tspan>
+<tspan x="30" y="330">  └───────┘</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30"><tspan class="key">mateo</tspan><tspan class="dots">@</tspan><tspan class="key">github</tspan></tspan>
+<tspan x="390" y="50"><tspan class="dots">────────────────────────────────────────────────────────</tspan></tspan>
+<tspan x="390" y="70"><tspan class="key">Ubicación</tspan><tspan class="dots">: ...................................... </tspan><tspan class="value">España</tspan></tspan>
+<tspan x="390" y="90"><tspan class="key">Rol</tspan><tspan class="dots">: .............................. </tspan><tspan class="value">Full Stack Developer</tspan></tspan>
+<tspan x="390" y="110"><tspan class="key">Empresa</tspan><tspan class="dots">: ............... </tspan><tspan class="value">[TU_EMPRESA], software a medida</tspan></tspan>
+<tspan x="390" y="130"><tspan class="key">Formación</tspan><tspan class="dots">: ................... </tspan><tspan class="value">4Geeks Academy, FS PT-139</tspan></tspan>
+<tspan x="390" y="150"><tspan class="key">Idiomas</tspan><tspan class="dots">: ............................... </tspan><tspan class="value">Español, Inglés</tspan></tspan>
+<tspan x="390" y="190"><tspan class="key">Stack.Frontend</tspan><tspan class="dots">: ................. </tspan><tspan class="value">React, Vite, Bootstrap</tspan></tspan>
+<tspan x="390" y="210"><tspan class="key">Stack.Backend</tspan><tspan class="dots">: ............... </tspan><tspan class="value">Python, Flask, SQLAlchemy</tspan></tspan>
+<tspan x="390" y="230"><tspan class="key">Stack.Datos</tspan><tspan class="dots">: ................................ </tspan><tspan class="value">PostgreSQL</tspan></tspan>
+<tspan x="390" y="250"><tspan class="key">Stack.IA</tspan><tspan class="dots">: .................. </tspan><tspan class="value">Claude API, Gemini API, MCP</tspan></tspan>
+<tspan x="390" y="290"><tspan class="key">- Contacto </tspan><tspan class="dots">─────────────────────────────────────────────</tspan></tspan>
+<tspan x="390" y="310"><tspan class="key">Email</tspan><tspan class="dots">: ...................................... </tspan><tspan class="value">[TU_EMAIL]</tspan></tspan>
+<tspan x="390" y="330"><tspan class="key">LinkedIn</tspan><tspan class="dots">: ............................. </tspan><tspan class="value">in/[TU_LINKEDIN]</tspan></tspan>
+<tspan x="390" y="370"><tspan class="key">- GitHub Stats </tspan><tspan class="dots">─────────────────────────────────────────</tspan></tspan>
+<tspan x="390" y="390"><tspan class="key">Repos</tspan><tspan class="dots">: ............................................... </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="390" y="410"><tspan class="key">Stars</tspan><tspan class="dots">: ............................................... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="390" y="430"><tspan class="key">Seguidores</tspan><tspan class="dots">: .......................................... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="390" y="450"><tspan class="key">Commits (último año)</tspan><tspan class="dots">: .............................. </tspan><tspan class="value">955</tspan></tspan>
+<tspan x="390" y="470"><tspan class="key">Contribuciones (último año)</tspan><tspan class="dots">: ...................... </tspan><tspan class="value">1066</tspan></tspan>
+</text></svg>

@@ -106,8 +106,8 @@ def header_line(title):
 
 
 def build_lines(stats):
-    lines = [[("key", "mateo"), ("dots", "@"), ("key", "github")],
-             [("dots", "─" * WIDTH_CHARS)]]
+    lines = [[("key", "Mateo Rodriguez")],
+         [("dots", "─" * WIDTH_CHARS)]]
     for item in PROFILE:
         if item is None:
             lines.append([])

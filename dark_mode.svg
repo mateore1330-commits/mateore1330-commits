@@ -1,34 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace" width="985px" height="400px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace" width="985px" height="420px" font-size="16px">
 <title>Mateo, Full Stack Developer</title>
 <style>.key{fill:#ffa657}.value{fill:#a5d6ff}.dots{fill:#616e7f}text{font-family:ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono','Courier New',monospace}text,tspan{white-space:pre}</style>
-<rect width="983px" height="398px" x="1" y="1" rx="12" fill="#161b22" stroke="#30363d"/>
-<text x="30" y="100" fill="#ffa657">
-<tspan x="30" y="100"> ███╗   ███╗</tspan>
-<tspan x="30" y="120"> ████╗ ████║</tspan>
-<tspan x="30" y="140"> ██╔████╔██║</tspan>
-<tspan x="30" y="160"> ██║╚██╔╝██║</tspan>
-<tspan x="30" y="180"> ██║ ╚═╝ ██║</tspan>
-<tspan x="30" y="200"> ╚═╝     ╚═╝</tspan>
-<tspan x="30" y="220"></tspan>
-<tspan x="30" y="240">  ┌───────┐</tspan>
-<tspan x="30" y="260">  │ &gt;_ fs │</tspan>
-<tspan x="30" y="280">  └───────┘</tspan>
+<rect width="983px" height="418px" x="1" y="1" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="30" y="110" fill="#ffa657">
+<tspan x="30" y="110"> ███╗   ███╗</tspan>
+<tspan x="30" y="130"> ████╗ ████║</tspan>
+<tspan x="30" y="150"> ██╔████╔██║</tspan>
+<tspan x="30" y="170"> ██║╚██╔╝██║</tspan>
+<tspan x="30" y="190"> ██║ ╚═╝ ██║</tspan>
+<tspan x="30" y="210"> ╚═╝     ╚═╝</tspan>
+<tspan x="30" y="230"></tspan>
+<tspan x="30" y="250">  ┌───────┐</tspan>
+<tspan x="30" y="270">  │ &gt;_ fs │</tspan>
+<tspan x="30" y="290">  └───────┘</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30"><tspan class="key">Mateo Rodriguez</tspan></tspan>
 <tspan x="390" y="50"><tspan class="dots">────────────────────────────────────────────────────────</tspan></tspan>
 <tspan x="390" y="70"><tspan class="key">Ubicación</tspan><tspan class="dots">: ...................................... </tspan><tspan class="value">España</tspan></tspan>
 <tspan x="390" y="90"><tspan class="key">Rol</tspan><tspan class="dots">: .............................. </tspan><tspan class="value">Full Stack Developer</tspan></tspan>
-<tspan x="390" y="110"><tspan class="key">Formación</tspan><tspan class="dots">: .................. </tspan><tspan class="value">Full Satck, AI engineering</tspan></tspan>
+<tspan x="390" y="110"><tspan class="key">Formación</tspan><tspan class="dots">: .................. </tspan><tspan class="value">Full Stack, AI engineering</tspan></tspan>
 <tspan x="390" y="130"><tspan class="key">Idiomas</tspan><tspan class="dots">: ....................................... </tspan><tspan class="value">Español</tspan></tspan>
-<tspan x="390" y="170"><tspan class="key">Stack.Frontend</tspan><tspan class="dots">: .. </tspan><tspan class="value">React, JavaScript, Next.js, Vite, Bootstrap, Tailwind CSS</tspan></tspan>
-<tspan x="390" y="190"><tspan class="key">Stack.Backend</tspan><tspan class="dots">: ............... </tspan><tspan class="value">Python, Flask, SQLAlchemy</tspan></tspan>
-<tspan x="390" y="210"><tspan class="key">Stack.Datos</tspan><tspan class="dots">: ................................ </tspan><tspan class="value">PostgreSQL</tspan></tspan>
-<tspan x="390" y="230"><tspan class="key">Stack.IA</tspan><tspan class="dots">: ...................... </tspan><tspan class="value">Claude API, ChatGPT API</tspan></tspan>
-<tspan x="390" y="270"><tspan class="key">- GitHub Stats </tspan><tspan class="dots">─────────────────────────────────────────</tspan></tspan>
-<tspan x="390" y="290"><tspan class="key">Repos</tspan><tspan class="dots">: ............................................... </tspan><tspan class="value">2</tspan></tspan>
-<tspan x="390" y="310"><tspan class="key">Stars</tspan><tspan class="dots">: ............................................... </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="390" y="330"><tspan class="key">Seguidores</tspan><tspan class="dots">: .......................................... </tspan><tspan class="value">1</tspan></tspan>
-<tspan x="390" y="350"><tspan class="key">Commits (último año)</tspan><tspan class="dots">: .............................. </tspan><tspan class="value">896</tspan></tspan>
-<tspan x="390" y="370"><tspan class="key">Contribuciones (último año)</tspan><tspan class="dots">: ...................... </tspan><tspan class="value">1008</tspan></tspan>
+<tspan x="390" y="170"><tspan class="key">Stack.Frontend</tspan><tspan class="dots">: ...... </tspan><tspan class="value">React, JavaScript, Next.js, Vite,</tspan></tspan>
+<tspan x="390" y="190"><tspan class="dots">                                 </tspan><tspan class="value">Bootstrap, Tailwind CSS</tspan></tspan>
+<tspan x="390" y="210"><tspan class="key">Stack.Backend</tspan><tspan class="dots">: ............... </tspan><tspan class="value">Python, Flask, SQLAlchemy</tspan></tspan>
+<tspan x="390" y="230"><tspan class="key">Stack.Datos</tspan><tspan class="dots">: ................................ </tspan><tspan class="value">PostgreSQL</tspan></tspan>
+<tspan x="390" y="250"><tspan class="key">Stack.IA</tspan><tspan class="dots">: ...................... </tspan><tspan class="value">Claude API, ChatGPT API</tspan></tspan>
+<tspan x="390" y="290"><tspan class="key">- GitHub Stats </tspan><tspan class="dots">─────────────────────────────────────────</tspan></tspan>
+<tspan x="390" y="310"><tspan class="key">Repos</tspan><tspan class="dots">: ............................................... </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="390" y="330"><tspan class="key">Stars</tspan><tspan class="dots">: ............................................... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="390" y="350"><tspan class="key">Seguidores</tspan><tspan class="dots">: .......................................... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="390" y="370"><tspan class="key">Commits (último año)</tspan><tspan class="dots">: .............................. </tspan><tspan class="value">896</tspan></tspan>
+<tspan x="390" y="390"><tspan class="key">Contribuciones (último año)</tspan><tspan class="dots">: ...................... </tspan><tspan class="value">1008</tspan></tspan>
 </text></svg>

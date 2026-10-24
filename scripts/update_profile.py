@@ -17,7 +17,7 @@ TOKEN = os.environ.get("PROFILE_TOKEN") or os.environ["GITHUB_TOKEN"]
 PROFILE = [
     ("Ubicación", "España"),
     ("Rol", "Full Stack Developer"),
-    ("Formación", "Full Satck, AI engineering"),
+    ("Formación", "Full Stack, AI engineering"),
     ("Idiomas", "Español"),
     None,
     ("Stack.Frontend", "React, JavaScript, Next.js, Vite, Bootstrap, Tailwind CSS"),
@@ -101,6 +101,24 @@ def kv_line(key, value):
     return [("key", key), ("dots", ": " + "." * dots + " "), ("value", value)]
 
 
+def kv_lines(key, value):
+    """Como kv_line, pero si el valor no cabe lo reparte en varias líneas."""
+    max_val = WIDTH_CHARS - len(key) - 5
+    parts, current = [], ""
+    for item in value.split(", "):
+        cand = f"{current}, {item}" if current else item
+        if len(cand) <= max_val or not current:
+            current = cand
+        else:
+            parts.append(current + ",")
+            current = item
+    parts.append(current)
+    lines = [kv_line(key, parts[0])]
+    for p in parts[1:]:
+        lines.append([("dots", " " * (WIDTH_CHARS - len(p))), ("value", p)])
+    return lines
+
+
 def header_line(title):
     return [("key", "- " + title + " "), ("dots", "─" * (WIDTH_CHARS - len(title) - 3))]
 
@@ -114,7 +132,7 @@ def build_lines(stats):
         elif isinstance(item, str):
             lines.append(header_line(item))
         else:
-            lines.append(kv_line(*item))
+            lines.extend(kv_lines(*item))
     lines.append(kv_line("Repos", stats["repos"]))
     lines.append(kv_line("Stars", stats["stars"]))
     lines.append(kv_line("Seguidores", stats["followers"]))

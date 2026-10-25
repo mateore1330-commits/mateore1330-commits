@@ -11,6 +11,8 @@
   </picture>
 </a>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-rodríguez-escobar-914834182" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&to=info@mateorodriguez.solutions" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>&nbsp;

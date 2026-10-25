@@ -23,11 +23,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mateore1330-commits&label=Visitas&color=30363d&style=flat-square" alt="Visitas" />
 </p>
-  <a href="https://www.linkedin.com/in/[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[TU_EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://[TU_WEB]"><img src="https://img.shields.io/badge/[TU_EMPRESA]-FFA657?style=flat-square&logoColor=0d1117" alt="Web" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mateore1330-commits&label=Visitas&color=30363d&style=flat-square" alt="Visitas" />
-</p>
+  
 
 ### Ahora mismo
 

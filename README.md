@@ -12,12 +12,17 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/mateore1330-commits">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=FFA657&center=true&vCenter=true&width=620&height=50&lines=Full+Stack+Developer;React+%2B+Flask+%2B+PostgreSQL;Construyendo+agentes+con+MCP;Apps+a+medida+desde+Espa%C3%B1a" alt="Full Stack Developer" />
-  </a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:info@mateorodriguez.solutions" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>&nbsp;
+  <a href="https://TU_PORTFOLIO" title="Portfolio"><img src="portfolio.svg" width="48" alt="Portfolio" /></a>&nbsp;
+  <a href="https://mateorodriguez.solutions" title="Web"><img src="web.svg" width="48" alt="Web" /></a>&nbsp;
+  <a href="https://wa.me/34TU_NUMERO" title="WhatsApp Business"><img src="whatsapp-business.svg" width="48" alt="WhatsApp Business" /></a>&nbsp;
+  <a href="https://www.instagram.com/TU_USUARIO" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateore1330-commits&label=Visitas&color=30363d&style=flat-square" alt="Visitas" />
+</p>
   <a href="https://www.linkedin.com/in/[TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:[TU_EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://[TU_WEB]"><img src="https://img.shields.io/badge/[TU_EMPRESA]-FFA657?style=flat-square&logoColor=0d1117" alt="Web" /></a>

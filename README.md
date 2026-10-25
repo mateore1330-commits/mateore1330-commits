@@ -12,11 +12,11 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mateo-rodríguez-escobar-914834182" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:info@mateorodriguez.solutions" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>&nbsp;
   <a href="https://TU_PORTFOLIO" title="Portfolio"><img src="portfolio.svg" width="48" alt="Portfolio" /></a>&nbsp;
   <a href="https://mateorodriguez.solutions" title="Web"><img src="web.svg" width="48" alt="Web" /></a>&nbsp;
-  <a href="https://wa.me/34TU_NUMERO" title="WhatsApp Business"><img src="whatsapp-business.svg" width="48" alt="WhatsApp Business" /></a>&nbsp;
+  <a href="https://wa.me/34TU_NUMERO" title="WhatsApp Business"><img src="whatsapp-business-bg.svg" width="48" alt="WhatsApp Business" /></a>&nbsp;
   <a href="https://www.instagram.com/TU_USUARIO" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
 </p>
 

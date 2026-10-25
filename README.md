@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-rodríguez-escobar-914834182" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:info@mateorodriguez.solutions" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=info@mateorodriguez.solutions" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /></a>&nbsp;
   <a href="https://TU_PORTFOLIO" title="Portfolio"><img src="portfolio.svg" width="48" alt="Portfolio" /></a>&nbsp;
   <a href="https://mateorodriguez.solutions" title="Web"><img src="web.svg" width="48" alt="Web" /></a>&nbsp;
   <a href="https://wa.me/34617090970" title="WhatsApp Business"><img src="whatsapp-business-bg.svg" width="48" alt="WhatsApp Business" /></a>&nbsp;

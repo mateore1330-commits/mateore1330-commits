@@ -11,6 +11,7 @@
   </picture>
 </a>
 
+&nbsp;
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-rodríguez-escobar-914834182" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;

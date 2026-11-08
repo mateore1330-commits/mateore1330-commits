@@ -45,7 +45,7 @@
 **Últimos commits**
 
 <!-- COMMITS:START -->
-- [**portfolio**](https://github.com/mateore1330-commits/portfolio): [Merge pull request #186 from mateore1330-commits/fix/WEB-185](https://github.com/mateore1330-commits/portfolio/commit/6cc98135d8552157ae15fe7fe2dbbf69737f36cf) <sub>06/11/2026</sub>
+- [**portfolio**](https://github.com/mateore1330-commits/portfolio): [Merge pull request #200 from mateore1330-commits/feat/GO-05-](https://github.com/mateore1330-commits/portfolio/commit/ee29780033dbfc7bccd039459d3c111856602d07) <sub>08/11/2026</sub>
 - [**dragonballz-API**](https://github.com/mateore1330-commits/dragonballz-API): [Create Blog DBZ](https://github.com/mateore1330-commits/dragonballz-API/commit/2f4c4ba678911cc88f4b429832eb51009fe99dc1) <sub>09/08/2026</sub>
 - [**CleanFlow**](https://github.com/mateore1330-commits/CleanFlow): [develop "use the brand isotype as the browser tab icon"](https://github.com/mateore1330-commits/CleanFlow/commit/45f647984d2f0a6a993f6d3d740d0a88b16f5ff4) <sub>01/10/2026</sub>
 - [**the-misspell-chalenge**](https://github.com/mateore1330-commits/the-misspell-chalenge): [Merge pull request #1259 from Antonio-garcia-2025/patch-1](https://github.com/mateore1330-commits/the-misspell-chalenge/commit/7e0947d51f2cb151811b46dfb0ea3cd4bf98cd37) <sub>30/04/2026</sub>

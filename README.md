@@ -45,7 +45,7 @@
 **Últimos commits**
 
 <!-- COMMITS:START -->
-- [**CleanFlow**](https://github.com/mateore1330-commits/CleanFlow): [Merge pull request #35 from mateore1330-commits/feat/WEB-01-](https://github.com/mateore1330-commits/CleanFlow/commit/dc767bd4a7a71ffe05d2e7993b725a86fddfd412) <sub>10/11/2026</sub>
+- [**CleanFlow**](https://github.com/mateore1330-commits/CleanFlow): [Merge pull request #52 from mateore1330-commits/feat/DATOS-0](https://github.com/mateore1330-commits/CleanFlow/commit/7a09b4f88a788dfa985366b0e710b4ac44f423c3) <sub>11/11/2026</sub>
 - [**dragonballz-API**](https://github.com/mateore1330-commits/dragonballz-API): [Merge pull request #22 from mateore1330-commits/fix/WEB-05-f](https://github.com/mateore1330-commits/dragonballz-API/commit/8c2d3bc8cf77825f8452f51677b2333e46bda2e4) <sub>09/11/2026</sub>
 - [**portfolio**](https://github.com/mateore1330-commits/portfolio): [Merge pull request #200 from mateore1330-commits/feat/GO-05-](https://github.com/mateore1330-commits/portfolio/commit/ee29780033dbfc7bccd039459d3c111856602d07) <sub>08/11/2026</sub>
 - [**the-misspell-chalenge**](https://github.com/mateore1330-commits/the-misspell-chalenge): [Merge pull request #1259 from Antonio-garcia-2025/patch-1](https://github.com/mateore1330-commits/the-misspell-chalenge/commit/7e0947d51f2cb151811b46dfb0ea3cd4bf98cd37) <sub>30/04/2026</sub>

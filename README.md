@@ -57,7 +57,7 @@
 
 ### Proyectos destacados
 
-<a href="https://github.com/mateore1330-commits/brilla2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateore1330-commits&repo=brilla2&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6" alt="brilla2" /></a>
+<a href="https://github.com/mateore1330-commits/CleanFlow"><img width="49%" src="profile/pin-cleanflow.svg" alt="CleanFlow" /></a>
 
 ### Tecnologías
 
@@ -68,7 +68,7 @@
 ### Estadísticas
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateore1330-commits&layout=compact&langs_count=6&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&border_color=30363d&border_radius=6" alt="Lenguajes más usados" />
+  <img height="170" src="profile/top-langs.svg" alt="Lenguajes más usados" />
   <img height="170" src="https://streak-stats.demolab.com/?user=mateore1330-commits&locale=es&background=161b22&border=30363d&stroke=30363d&ring=ffa657&fire=ffa657&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=ffa657&sideLabels=8b949e&dates=8b949e" alt="Racha de contribuciones" />
 </p>
 

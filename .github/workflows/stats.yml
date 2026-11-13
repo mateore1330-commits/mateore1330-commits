@@ -1,0 +1,45 @@
+name: Tarjetas de estadísticas
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lenguajes más usados
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=mateore1330-commits&layout=compact&langs_count=6&locale=es&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&border_color=30363d&border_radius=6
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Proyecto CleanFlow
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=mateore1330-commits&repo=CleanFlow&locale=es&bg_color=161b22&title_color=4493f8&text_color=8b949e&icon_color=ffa657&border_color=30363d&border_radius=6
+          path: profile/pin-cleanflow.svg
+          token: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Guardar tarjetas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet && exit 0
+          git commit -m "Actualiza tarjetas de estadísticas"
+          git pull --rebase
+          git push

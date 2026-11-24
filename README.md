@@ -45,10 +45,10 @@
 **Últimos commits**
 
 <!-- COMMITS:START -->
+- [**fs-with-ai-herramientas-vibecoding-mateore1330-commits**](https://github.com/mateore1330-commits/fs-with-ai-herramientas-vibecoding-mateore1330-commits): [docs: remove optional sections from README](https://github.com/mateore1330-commits/fs-with-ai-herramientas-vibecoding-mateore1330-commits/commit/d17cde3a22c63dc2fd40cc43e99f836e4ab58639) <sub>23/11/2026</sub>
 - [**portfolio**](https://github.com/mateore1330-commits/portfolio): [Merge pull request #203 from mateore1330-commits/chore/clean](https://github.com/mateore1330-commits/portfolio/commit/a7764797e8d6962531c8e925071ea7dc78d653d4) <sub>12/11/2026</sub>
 - [**CleanFlow**](https://github.com/mateore1330-commits/CleanFlow): [Merge pull request #55 from mateore1330-commits/docs/DEPLOY-](https://github.com/mateore1330-commits/CleanFlow/commit/7447ed7012d2a1075434caf5d9dc7f97e82f3093) <sub>12/11/2026</sub>
 - [**dragonballz-API**](https://github.com/mateore1330-commits/dragonballz-API): [Merge pull request #22 from mateore1330-commits/fix/WEB-05-f](https://github.com/mateore1330-commits/dragonballz-API/commit/8c2d3bc8cf77825f8452f51677b2333e46bda2e4) <sub>09/11/2026</sub>
-- [**the-misspell-chalenge**](https://github.com/mateore1330-commits/the-misspell-chalenge): [Merge pull request #1259 from Antonio-garcia-2025/patch-1](https://github.com/mateore1330-commits/the-misspell-chalenge/commit/7e0947d51f2cb151811b46dfb0ea3cd4bf98cd37) <sub>30/04/2026</sub>
 <!-- COMMITS:END -->
 
 </td>
